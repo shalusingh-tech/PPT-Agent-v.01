@@ -7,6 +7,12 @@ An intelligent presentation generator that uses AI agents to create professional
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.0+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🎬 Demo
+
+https://github.com/shalusingh-tech/PPT-Agent/raw/main/assets/Demo.mp4
+
+> *Watch the demo to see PPT Agent in action - from topic input to PDF generation!*
+
 ## ✨ Features
 
 - 🤖 **Multi-Agent Architecture** - Uses specialized AI agents for research, file understanding, outline creation, and slide generation
